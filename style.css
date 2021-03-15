@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+canvas{
+    background-color: #5f27cd;
+    border: 2px solid black;
+}
+body{
+    text-align: center;
+    font-family: 'Redressed', cursive;
+}
